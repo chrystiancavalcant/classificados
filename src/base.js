@@ -1,10 +1,10 @@
 const config = {
-    apiKey: "AIzaSyBGC8IrVyKQWfASKrVG_znSQN5cY5rBkbI",
+    apiKey: "AIzaSyBGC8IrVyKQWfASKrVG_znSQN5cY5rBkbIwwww2",
     authDomain: "mercadodevpro.firebaseapp.com",
     databaseURL: "https://mercadodevpro.firebaseio.com",
     projectId: "mercadodevpro",
     storageBucket: "gs://mercadodevpro.appspot.com",
-    messagingSenderId: "23778332459"
+    messagingSenderId: "23778332459343443"
   }
 
   const Rebase = require ('re-base')
